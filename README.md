@@ -5,6 +5,7 @@ Student - Computer Science
 --------------------------
 
 I've been learning to code for 4 years, after I study in computer science. 
+<br />
 I'm looking for an internship related to automate tester or Front End Developer.
 
 * 🌍  I'm based in Bangkok, Thiland
