@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student - Computer Science
 --------------------------
 
-I've been learning to code for 4 years, after I study in computer science. I'm looking for an internship related to automate tester or Front End Developer.
+I've been learning to code for 4 years, after I study in computer science. 
+I'm looking for an internship related to automate tester or Front End Developer.
 
 * 🌍  I'm based in Bangkok, Thiland
 * ✉️  You can contact me at [w.inaksorn@gmail.com](mailto:w.inaksorn@gmail.com)
