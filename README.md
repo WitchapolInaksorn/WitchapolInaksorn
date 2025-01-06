@@ -6,7 +6,7 @@ Student - Computer Science, Kasetsart University Sriracha Campus
 
 I've been learning to code for 3 years, after I study in computer science. 
 <br />
-I'm looking for an internship related to Automate Tester , Front-End Developer and Mobile Developer.
+I'm looking for an internship related to Mobile Developer | Front-End Developer | Automate Tester.
 
 * 🌍  I'm based in Bangkok, Thiland
 * ✉️  You can contact me at [w.inaksorn@gmail.com](mailto:w.inaksorn@gmail.com)
