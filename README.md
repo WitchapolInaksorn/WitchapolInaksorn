@@ -1,6 +1,6 @@
 # Hi 👋 I'm Witchaphol Inaksorn
 
-### Computer Science Graduate | Front-End Developer | Mobile Developer | QA Automation
+### Computer Science Graduate | Front-End Developer | Full-Stack Developer | Software Tester 
 
 I'm Owen (Witchaphol Inaksorn), a Computer Science graduate from Kasetsart University Sriracha Campus.
 
