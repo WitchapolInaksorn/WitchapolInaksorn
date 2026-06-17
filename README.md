@@ -149,29 +149,6 @@ Currently interested in:
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="mailto:w.inaksorn@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/WitchapolInaksorn">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://discord.com/users/4tsuya">
-<img src="https://skillicons.dev/icons?i=discord" />
-</a>
-
-<a href="https://www.youtube.com/@4tsuya914">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-</p>
-
-📧 Email: **w.inaksorn@gmail.com**
-
----
 
 ## 📊 GitHub Statistics
 
