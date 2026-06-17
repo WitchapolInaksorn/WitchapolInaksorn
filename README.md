@@ -6,20 +6,12 @@ I'm Owen (Witchaphol Inaksorn), a Computer Science graduate from Kasetsart Unive
 
 I enjoy building web and mobile applications, designing user-friendly interfaces, and continuously improving my software development skills through real-world projects and internship experience.
 
-Currently interested in:
-
-- 🌐 Front-End Development
-- 📱 Mobile Application Development
-- ⚙️ Software Engineering
-- 🧪 Test Automation & Quality Assurance
-
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor of Computer Science, Kasetsart University Sriracha Campus
 - 📈 GPA: **3.58**
-- 💼 Former Software Engineer Intern at Synpulse (Thailand) Co., Ltd.
 - 🌱 Always learning new technologies and best practices
 - 🚀 Passionate about creating impactful applications and improving user experiences
 - 📍 Bangkok, Thailand
@@ -52,6 +44,12 @@ Currently interested in:
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
+### 🛠️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,firebase" />
+</p>
+
 ### 🧪 Testing & Quality Assurance
 
 - Selenium
@@ -60,12 +58,6 @@ Currently interested in:
 - Manual Testing
 - Test Case Design
 
-### 🛠️ Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux,figma,firebase" />
-</p>
-
 ---
 
 ## 🎯 Core Skills
@@ -73,8 +65,6 @@ Currently interested in:
 ✔ Front-End Development
 
 ✔ Responsive Web Design
-
-✔ Mobile Application Development
 
 ✔ REST API Integration
 
@@ -149,6 +139,13 @@ Currently interested in:
 
 ---
 
+## 💡 Developer Philosophy
+
+> "Keep learning, keep building, and turn ideas into impactful software."
+
+---
+
+## 💡 Developer Philosophy
 
 ## 📊 GitHub Statistics
 
@@ -163,10 +160,3 @@ Currently interested in:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitchapolInaksorn&layout=compact&theme=tokyonight" />
 </p>
-
-
----
-
-## 💡 Developer Philosophy
-
-> "Keep learning, keep building, and turn ideas into impactful software."
