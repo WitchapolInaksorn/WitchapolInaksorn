@@ -1,10 +1,14 @@
 # Hi 👋 I'm Witchaphol Inaksorn
 
-### Computer Science Graduate | Front-End Developer | Mobile Developer | QA Automation Enthusiast
+### Computer Science Graduate | Front-End Developer | Mobile Developer | QA Automation
 
 I'm Owen (Witchaphol Inaksorn), a Computer Science graduate from Kasetsart University Sriracha Campus.
 
-I enjoy building web and mobile applications, designing user-friendly interfaces, and continuously improving my software development skills through real-world projects and internship experience.
+💻 Passionate about building web and mobile applications
+
+🎨 Interested in creating clean and user-friendly interfaces
+
+🚀 Continuously improving software development skills through real-world projects and internship experience
 
 ---
 
@@ -26,16 +30,16 @@ I enjoy building web and mobile applications, designing user-friendly interfaces
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs,bootstrap,tailwind" />
 </p>
 
-### 📱 Mobile Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-</p>
-
 ### ⚙️ Back-End Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,nodejs" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
 ### 🗄️ Database
@@ -94,8 +98,7 @@ I enjoy building web and mobile applications, designing user-friendly interfaces
 
 ## 💼 Experience
 
-### Software Engineer Intern
-**Synpulse (Thailand) Co., Ltd.**
+### Software Engineer Intern - Synpulse (Thailand) Co., Ltd.
 
 📅 May 2025 - October 2025
 
@@ -134,7 +137,6 @@ I enjoy building web and mobile applications, designing user-friendly interfaces
 
 - 📜 Certificate of AppSheet
 - 📜 Certificate of Figma
-- 📜 Certificate of Good Student
 - 📜 Certificate of Network Cabling
 
 ---
@@ -143,20 +145,3 @@ I enjoy building web and mobile applications, designing user-friendly interfaces
 
 > "Keep learning, keep building, and turn ideas into impactful software."
 
----
-
-## 💡 Developer Philosophy
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=WitchapolInaksorn&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WitchapolInaksorn&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitchapolInaksorn&layout=compact&theme=tokyonight" />
-</p>
