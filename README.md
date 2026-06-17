@@ -187,17 +187,6 @@ Currently interested in:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitchapolInaksorn&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🔥 Current Focus
-
-```text
-🌐 Front-End Development
-📱 Flutter Development
-⚛️ React Ecosystem
-🧪 Software Testing & Automation
-☁️ Modern Web Technologies
-```
 
 ---
 
